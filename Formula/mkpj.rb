@@ -8,5 +8,6 @@ class Mkpj < Formula
     def install
         system "make", "configure"
         system "sudo", "make", "install"
+        bin.install "bin/mkpj"
     end
 end
