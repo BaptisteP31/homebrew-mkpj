@@ -1,4 +1,4 @@
-class mkpj < Formula
+class Mkpj < Formula
     desc "A simple, yet efficient C++ project assistant."
     homepage "https://github.com/BaptisteP31/mkpj"
     url "https://github.com/BaptisteP31/mkpj/archive/refs/tags/0.4.tar.gz"
